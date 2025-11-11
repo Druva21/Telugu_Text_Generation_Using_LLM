@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+
+# Dataset
+*.csv
+*.json
+telugu_tweets.csv
+Final_Dataset.csv
+
+# Model outputs
+telugu_corpus.txt
+indicgpt_finetuned/
+telugu_bpe_tokenizer/
+llm_from_scratch.pt
+
+# Logs
+logs/
+
+# Environment variables
+.env
