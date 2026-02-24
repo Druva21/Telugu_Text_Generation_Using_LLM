@@ -98,37 +98,38 @@ Fine-tuned pretrained Indic model (`ai4bharat/IndicGPT` or `IndicBART`) using we
 **Observation:** Fine-tuning dramatically improves coherence and reduces perplexity.
 
 ---
-
 ```text
+
 ## 📂 Folder Structure
 
 Telugu_Text_Generation_Using_LLM/
 │
 ├── requirements.txt
-
+│
 ├── telugu_tweets.csv
-
+│
 ├── Final_Dataset.csv
-
-├── BPE_Tokenizer.py
-
-├── encode_telugu_dataset.py
-
-├── train_llm.py
-
-├── fine_tune_with_indicgpt.py
-
-├── Calculating_Perplexity.py
-
-├── telugu_bpe_tokenizer/
-
-│ ├── merges.txt
-
-│ └── vocab.json
-
+│
 ├── Telugu_corpus.txt
+│
+├── BPE_Tokenizer.py
+│
+├── encode_telugu_dataset.py
+│
+├── train_llm.py
+│
+├── fine_tune_with_indicgpt.py
+│
+├── Calculating_Perplexity.py
+│
+├── Tokenized_Telugu_BPE.json
+│
+├── telugu_bpe_tokenizer/
+│   ├── merges.txt
+│   └── vocab.json
+│
+└── README.md
 
-└── Tokenized_Telugu_BPE.json
 ```
 
 
