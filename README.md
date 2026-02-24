@@ -98,9 +98,11 @@ Fine-tuned pretrained Indic model (`ai4bharat/IndicGPT` or `IndicBART`) using we
 **Observation:** Fine-tuning dramatically improves coherence and reduces perplexity.
 
 ---
-```text
+
 
 ## 📂 Folder Structure
+
+```text
 
 Telugu_Text_Generation_Using_LLM/
 │
