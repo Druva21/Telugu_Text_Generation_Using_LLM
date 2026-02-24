@@ -99,6 +99,7 @@ Fine-tuned pretrained Indic model (`ai4bharat/IndicGPT` or `IndicBART`) using we
 
 ---
 
+```text
 ## 📂 Folder Structure
 
 Telugu_Text_Generation_Using_LLM/
@@ -128,6 +129,7 @@ Telugu_Text_Generation_Using_LLM/
 ├── Telugu_corpus.txt
 
 └── Tokenized_Telugu_BPE.json
+```
 
 
 ---
